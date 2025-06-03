@@ -195,3 +195,7 @@ cython_debug/
 
 .DS_Store
 data/
+PetImages/
+*test*
+*train*
+cat_dog/submission
