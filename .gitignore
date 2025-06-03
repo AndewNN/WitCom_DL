@@ -194,3 +194,8 @@ cython_debug/
 .cursorindexingignore
 
 .DS_Store
+data/
+PetImages/
+*test*
+*train*
+cat_dog/submission
